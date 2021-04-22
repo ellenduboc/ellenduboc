@@ -1,4 +1,4 @@
-![Imgur](https://imgur.com/a/TeCM1hu)
+![Imgur](https://i.imgur.com/1tnAQ8O.png)
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellenduboc/)](https://www.linkedin.com/in/ellenduboc/) •
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-rounded&logo=Gmail&logoColor=white&link=mailto:ellenduboc.prof@gmail.com)](mailto:ellenduboc.prof@gmail.com) •
