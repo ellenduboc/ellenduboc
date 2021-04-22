@@ -6,7 +6,7 @@
 
 
 ## Seja Bem-vindo!
-Sou uma desenvolvedora mobile jr. iniciando minha jornada nesse mundo incrível da programação, hoje atuo principalmente no ecossistema React utilizando JavaScript. Aqui você vai encontrar vários exemplos tanto de código como de belos designs que desenvolvi para os meus projetos. Estou me formando em Publicidade e Propaganda, por isso tento mesclar minha vivência no curso com as possibilidades do mundo da programação. Buscando sempre construir produtos incríveis! Me acompanhe nas redes sociais :D
+Sou uma desenvolvedora mobile jr. iniciando minha jornada nesse mundo incrível da programação, hoje atuo principalmente no ecossistema React utilizando JavaScript. Aqui você vai encontrar vários exemplos tanto de código como de belos designs que desenvolvi para os meus projetos. Estou me formando em Publicidade e Propaganda, por isso tento mesclar minha vivência no curso com as possibilidades do mundo da programação. Buscando sempre construir produtos incríveis! Me acompanhe nas redes sociais 😊
 
 ## Nas minha horas vagas, um pouco sobre mim...
 - 🍿 Sou viciada em séries e sitcoms.
