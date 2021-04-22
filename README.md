@@ -21,7 +21,6 @@ Me acompanhe nas redes sociais 😊
 <p>
   <img alt="React Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-rounded&logo=react&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-20242a?style=flat-rounded&logo=react&logoColor=61dafb" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-rounded&logo=redux&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-rounded&logo=git&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-rounded&logo=styled-components&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-rounded&logo=html5&logoColor=white" />
